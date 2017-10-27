@@ -11,21 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Vision, The University of Nottingham, 2015
-* B.Eng. in Electronic & Electrical Engineering, The University of Nottingham, 2009
+* 2009-2015: Ph.D in Electrical Electronic Engineering, The University of Nottingham
+  * Achievements:
+    * Model visual attention in human perception computationally
+    * Compute visual saliency by information theory
+    * Implement computational saliency models on Embedded System
+* 2005-2009: B.Eng. in Electronic & Electrical Engineering, The University of Nottingham
+  * Courses:
 
 Work experience
 ======
-* 2016-2017: Research Fellow
-  * School of Psychology, University of Nottingham
-  * Duties included:
-    **
-  * Supervisor: Professor Git
+* 2015-2017: Research Fellow of Engineering and Physical Sciences Research Council (ESPRC)
+  * Project Title: [New pathways to hearing: A multisensory noise reducing and palate based sensory substitution device for speech perception](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/M026965/1)
+  * School of Psychology, The University of Nottingham
+  * Objectives:
+    * Create Voice-Vocal-Expression (WE) database
+    * Design (Auto-) Associative Recurrent Neural Network
+    * Parallelize Multi-Channel Gaussian Model Dense Optical Flow Estimation
+  * Project Managers:
+    * Professor Jeremy Skipper, University College of London
+    * Professor Alan Johnston, University of Nottingham
+    * Professor Martin Sereno, University College of London
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013-2015: Research Fellow
+  * Project Title: [UbeAware - Ubiquitious Awarenesss in Adversely Subtle Situations](http://foe.mmu.edu.my/v3/main/research/cryptosec/ubeaware/)
+  * Faculty of Engineering, Multimedia University
+  * Achievements:
+    * Formulate Video & Image in Conformal Space
+    * Analyse Facial Dynamics with Extended Dynamic Mode Decomposition
+    * Tackle Imbalance of Micro-Expressions Corpora
+    * Design Automatic Spontaneous Subtle Emotion Recognition System
+  * Project Manager:
+    * Professor Raphael Chung-Wei Phan
+
+* Summer 2008: Research Assistant
+  * Project Title: Advanced Driving Assistance System (ADAS)
+  * Faculty of Engineering, The University of Nottingham
+  * Achievements:
+    * Develop Lane Detection & Tracking System
+    * Develop Vehicle Detection & Tracking System
+    * Implement ADAS on Texas Instrument DSP System DM642
 
 Skills
 ======

@@ -12,12 +12,26 @@ redirect_from:
 Education
 ======
 * 2009-2015: Ph.D in Electrical Electronic Engineering, The University of Nottingham
+  * Thesis: Digital System for Bio-inspired Visual Attention Processing: Fast and Efficient
+  Information Theoretic Modeling of Saliency
   * Achievements:
     * Model visual attention in human perception computationally
     * Compute visual saliency by information theory
     * Implement computational saliency models on Embedded System
+  * Supervisors:
+    * Professor. Kenneth Ang
+    * Professor. Jasmine Seng
+    * Professor. Guoping Qiu
 * 2005-2009: B.Eng. in Electronic & Electrical Engineering, The University of Nottingham
-  * Courses:
+
+...| Visual Information Computing      | Electronic Design |
+...| Signal Processing and Control Engineering | Electronic Engineering Design Project |
+...| Object Oriented Programming in Java | Mathematical Techniques for Electrical and Electronic Engineers |
+...| Software Engineering Design (C/C++) | VLSI Design |
+...| Telecommunications | Final Year Project |
+...| Digital communications | Introduction to Business Operation |
+...| Communication Systems | Business Planning and Presentation for Communication Engineer |
+...| Microwave Communications | N/A |
 
 Work experience
 ======
@@ -44,6 +58,8 @@ Work experience
   * Project Manager:
     * Professor Raphael Chung-Wei Phan
 
+* Summer 2009: Mobile Game Tester, Gameloft, Vietnam
+
 * Summer 2008: Research Assistant
   * Project Title: Advanced Driving Assistance System (ADAS)
   * Faculty of Engineering, The University of Nottingham
@@ -52,14 +68,40 @@ Work experience
     * Develop Vehicle Detection & Tracking System
     * Implement ADAS on Texas Instrument DSP System DM642
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2008: Network & Service Trainee, Telecommunication Department, FPT, Vietnam
+
+Language Skills
+===============
+* English: Professional IELTS 7.0 ( Listening: 6.5, Reading: 8.5, Writing: 6.0, Speaking: 6.0 )
+* Vietnamese: Fluent (Daily practice, all works are performed in English)
+
+Computer Skills
+===============
+* Design ...
+  * Multi-modal Human Speech Recognition System
+  * Micro-Expression Subtle Emotion Recognition & Analysis
+  * Advanced Driving Assistance System
+* ... with Artificial Intelligence & Neural Network.
+  * (Auto-) Associative Long-Short Term Memory
+  * Recurrent Neural Network (RNN)
+* ... by
+  * Languages: C/C++, MATLAB, Python, Halide Lang, Octave, L A TEX, CUDA, Bash, OpenCV,
+  Go Lang, Java, Assembly
+  * Softwares: Emacs, MATLAB, IPython, TexStudio, Git,SVN, UML, GIMP, Inkscape, Dia
+  * Toolboxes: TensorFlow,Keras,RECURRENT
+  * Hardwares: Texas Instrument DSP - DM642 for Video & Image Processing,
+  NVIDIA Computational Graphic Card Tesla K20c, P100, High-performance Computer SGI UV 2000
+  * Operating Systems: Ubuntu 16.04, Suse Linux Enterprise System (SLES) 12, Windows 7, Backtrack 4.0, Centos
+
+Honorary Achievements
+=====================
+
+* Research Fellowship in ESPRC project "New pathways to hearing: A multisensory noise reducing and palate based sensory substitution device for speech perception"
+* Research Fellowship in 2BEAWARE project sponsored by Telekom Malaysia,2015
+* Postdoctoral Fellowship, in UBEAWARE project sponsored by Telekom Malaysia,
+2013
+* MIDAS Scholarship, The University of Nottingham, 2009
+* Vietnam Government Scholarship for Excellent Students (Project 320), 2007
 
 Publications
 ======
